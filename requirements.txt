@@ -1,4 +1,4 @@
-ultralytics==8.1.2
+ultralytics
 streamlit==1.31.1
 opencv-python-headless==4.9.0.80
 numpy==1.26.4
