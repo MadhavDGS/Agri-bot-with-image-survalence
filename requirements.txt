@@ -1,0 +1,8 @@
+ultralytics==8.1.2
+streamlit==1.31.1
+opencv-python==4.9.0.80
+numpy==1.26.4
+Pillow==10.2.0
+reportlab==4.1.0
+torch==2.2.0
+torchvision==0.17.0 
